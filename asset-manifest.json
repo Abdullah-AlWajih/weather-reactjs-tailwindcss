@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather-reactjs-tailwindcss/static/css/main.9461c328.css",
+    "main.js": "/weather-reactjs-tailwindcss/static/js/main.4c40fdae.js",
+    "static/js/496.68fadb4e.chunk.js": "/weather-reactjs-tailwindcss/static/js/496.68fadb4e.chunk.js",
+    "service-worker.js": "/weather-reactjs-tailwindcss/service-worker.js",
+    "index.html": "/weather-reactjs-tailwindcss/index.html",
+    "main.9461c328.css.map": "/weather-reactjs-tailwindcss/static/css/main.9461c328.css.map",
+    "main.4c40fdae.js.map": "/weather-reactjs-tailwindcss/static/js/main.4c40fdae.js.map",
+    "496.68fadb4e.chunk.js.map": "/weather-reactjs-tailwindcss/static/js/496.68fadb4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9461c328.css",
+    "static/js/main.4c40fdae.js"
+  ]
+}
