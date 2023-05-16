@@ -75,7 +75,7 @@ function App() {
                                 }
 
                                 <img src={showWeather[0]?.img} alt="" className='w-52 mx-auto'/>
-                                <h3 className='text-2xl font-bold text-zinc-800'>
+                                <h3 className='text-2xl font-bold'>
                                     {showWeather[0]?.type}
                                 </h3>
 
