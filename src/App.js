@@ -48,7 +48,7 @@ function App() {
     };
     return (
         <div className='bg-gray-800 h-screen grid place-items-center'>
-            <div className='bg-white w-96 p-4 rounded-md'>
+            <div className='bg-white dark:bg-slate-800 w-96 p-4 rounded-md'>
                 <div className='flex items-center justify-between'>
                     <input type="text"
                            ref={inputRef}
