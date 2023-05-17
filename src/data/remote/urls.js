@@ -1,4 +1,3 @@
-import App from "../../App";
 
 const apiKey = '60989022778c254dd43568777b92b238';
 
