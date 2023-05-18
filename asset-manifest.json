@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weather-reactjs-tailwindcss/static/css/main.38232b03.css",
-    "main.js": "/weather-reactjs-tailwindcss/static/js/main.8ee611be.js",
+    "main.css": "/weather-reactjs-tailwindcss/static/css/main.65ee8530.css",
+    "main.js": "/weather-reactjs-tailwindcss/static/js/main.26c4a908.js",
     "static/js/496.68fadb4e.chunk.js": "/weather-reactjs-tailwindcss/static/js/496.68fadb4e.chunk.js",
     "static/media/DINNextLTArabicRegular.ttf": "/weather-reactjs-tailwindcss/static/media/DINNextLTArabicRegular.29b1418d7917bbb228d5.ttf",
     "static/media/DINNextLTArabicMedium.ttf": "/weather-reactjs-tailwindcss/static/media/DINNextLTArabicMedium.ef2aa50d8c565df03a15.ttf",
@@ -21,12 +21,12 @@
     "static/media/temp.png": "/weather-reactjs-tailwindcss/static/media/temp.cb0c8d7248acd82fbf45.png",
     "static/media/NotFound.png": "/weather-reactjs-tailwindcss/static/media/NotFound.db1b8a637314537d7871.png",
     "index.html": "/weather-reactjs-tailwindcss/index.html",
-    "main.38232b03.css.map": "/weather-reactjs-tailwindcss/static/css/main.38232b03.css.map",
-    "main.8ee611be.js.map": "/weather-reactjs-tailwindcss/static/js/main.8ee611be.js.map",
+    "main.65ee8530.css.map": "/weather-reactjs-tailwindcss/static/css/main.65ee8530.css.map",
+    "main.26c4a908.js.map": "/weather-reactjs-tailwindcss/static/js/main.26c4a908.js.map",
     "496.68fadb4e.chunk.js.map": "/weather-reactjs-tailwindcss/static/js/496.68fadb4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38232b03.css",
-    "static/js/main.8ee611be.js"
+    "static/css/main.65ee8530.css",
+    "static/js/main.26c4a908.js"
   ]
 }
