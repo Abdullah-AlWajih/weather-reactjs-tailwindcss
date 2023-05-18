@@ -48,7 +48,7 @@ function App() {
         ).finally(() => setLoading(false));
   };
   return (
-      <div className='bg-secondary h-screen justify-center flex items-center   px-8'>
+      <div className='bg-secondary min-h-screen justify-center flex items-center   px-8'>
         <div className='bg-white drop-shadow-xl dark:bg-slate-800  w-96 p-4 rounded-md'>
           <Input fetchWeather={fetchWeather} inputRef={inputRef}/>
           <div className={`duration-300 delay-75 overflow-hidden ${showWeather ? 'h-[27rem]' : 'h-0'} `}>
