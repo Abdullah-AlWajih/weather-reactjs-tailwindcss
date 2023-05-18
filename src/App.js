@@ -81,13 +81,12 @@ function App() {
         <div className='bg-secondary min-h-screen justify-center flex items-center   px-8'>
             <div className='bg-white drop-shadow-xl dark:bg-slate-800  w-96 p-4 rounded-md'>
                 <Input searchWeather={searchWeather} inputRef={inputRef}/>
-                <div className={`duration-300 delay-75 overflow-hidden ${apiData || loading ? 'h-[27rem]' : 'h-0'} `}>
+                <div className={`duration-300 grid place-items-center delay-75 overflow-hidden ${apiData || loading ? 'h-[27rem]' : 'h-0'} `}>
                     {
-                        loading ? <div className='grid place-items-center h-full'><img
+                        loading ? <img
                             src={images.weatherTypes.loading} alt=""
                             className='w-14 mx-auto mb-2 animate-spin'
-                        />
-                        </div> : (
+                        />: (
                             apiData && (<div className='text-center flex flex-col gap-6 mt-10'>
                                 {
                                     apiData?.name && (
