@@ -79,7 +79,7 @@ function App() {
 
     return (
         <div className="bg-secondary bg-[url('./assets/weather.jpg')] min-h-screen justify-center flex items-center   px-8">
-            <div className='backdrop-blur-sm bg-white/10 drop-shadow-xl dark:bg-slate-800  w-96 p-4 rounded-md'>
+            <div className='backdrop-blur-sm bg-white/10 drop-shadow-xl  w-96 p-4 rounded-md'>
                 <Input searchWeather={searchWeather} inputRef={inputRef}/>
                 <div className={`duration-300 grid place-items-center delay-75 overflow-hidden ${apiData || loading ? 'h-[27rem]' : 'h-0'} `}>
                     {
