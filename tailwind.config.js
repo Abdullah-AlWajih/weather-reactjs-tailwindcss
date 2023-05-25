@@ -9,7 +9,7 @@ module.exports = {
                 secondary: "#D4D4D5",
                 "secondary-container": '#EFEDEE',
                 backgroundImage: {
-                    'hero': "url('./assets/bg.svg')",
+                    'hero': "url('./assets/weather.jpg')",
                 }
             },
         },
