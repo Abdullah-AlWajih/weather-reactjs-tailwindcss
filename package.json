@@ -1,7 +1,7 @@
 {
   "name": "weather",
   "version": "6.3.3",
-  "homepage": "https://Abdullah-AlWajih.github.io/reactjs-tailwindcss-weather",
+  "homepage": "https://abdullah-alwajih.github.io/reactjs-tailwindcss-weather",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
