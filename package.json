@@ -1,6 +1,6 @@
 {
   "name": "weather",
-  "version": "6.3.3",
+  "version": "6.4.0",
   "homepage": "https://abdullah-alwajih.github.io/reactjs-tailwindcss-weather",
   "private": true,
   "dependencies": {
